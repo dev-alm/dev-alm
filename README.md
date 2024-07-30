@@ -18,6 +18,6 @@
 </div><br/>
 
 Apaixonado por jogos e desenvolvimento Web!
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/2dfea0c8-e854-4f38-a650-2c15ea14e313" width="800px" height="400px" />
+<div align="left">
+  <img src="https://github.com/user-attachments/assets/34ea0bc0-aa46-4093-9fe6-00c09f2c782a" width="150px" height="150px" />
 </div>
