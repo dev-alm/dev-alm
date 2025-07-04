@@ -1,4 +1,7 @@
 ### Olá! Eu sou Gustavo Almeida👋
+<div align="left">
+  <img src="https://github.com/user-attachments/assets/34ea0bc0-aa46-4093-9fe6-00c09f2c782a" width="150px" height="150px" />
+</div>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-almeida-390359266/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gustavo_almeida3/)
@@ -17,7 +20,13 @@
 <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </div><br/>
 
-Apaixonado por jogos e desenvolvimento Web!
+### Apaixonado por jogos e desenvolvimento Web!
 <div align="left">
-  <img src="https://github.com/user-attachments/assets/34ea0bc0-aa46-4093-9fe6-00c09f2c782a" width="150px" height="150px" />
+  <img align="center" alt="1-estrela" src="https://raw.githubusercontent.com/dev-alm/minhas-img-png/refs/heads/main/01-one-star.png" width="100px" height="100px" />
+  <img align="center" alt="2-estrela" src="https://raw.githubusercontent.com/dev-alm/minhas-img-png/refs/heads/main/02-two-star.png" width="100px" height="100px" />
+  <img align="center" alt="3-estrela" src="https://raw.githubusercontent.com/dev-alm/minhas-img-png/refs/heads/main/03-three-star.png" width="100px" height="101px" />
+  <img align="center" alt="4-estrela" src="https://raw.githubusercontent.com/dev-alm/minhas-img-png/refs/heads/main/04-four-star.png" width="100px" height="103px" />
+  <img align="center" alt="5-estrela" src="https://raw.githubusercontent.com/dev-alm/minhas-img-png/refs/heads/main/05-five-star.png" width="100px" height="100px" />
+  <img align="center" alt="6-estrela" src="https://raw.githubusercontent.com/dev-alm/minhas-img-png/refs/heads/main/06-six-star.png" width="115px" height="98px" />
+  <img align="center" alt="7-estrela" src="https://raw.githubusercontent.com/dev-alm/minhas-img-png/refs/heads/main/07-seven-star.png" width="103px" height="103px" />
 </div>
