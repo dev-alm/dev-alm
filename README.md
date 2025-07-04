@@ -26,7 +26,7 @@
   <img align="center" alt="2-estrela" src="https://raw.githubusercontent.com/dev-alm/minhas-img-png/refs/heads/main/esferas-do-dragao/02-two-star.png" width="100px" height="100px" />
   <img align="center" alt="3-estrela" src="https://raw.githubusercontent.com/dev-alm/minhas-img-png/refs/heads/main/esferas-do-dragao/03-three-star.png" width="100px" height="101px" />
   <img align="center" alt="4-estrela" src="https://raw.githubusercontent.com/dev-alm/minhas-img-png/refs/heads/main/esferas-do-dragao/04-four-star.png" width="100px" height="103px" />
-  <img align="center" alt="5-estrela" src="https://raw.githubusercontent.com/dev-alm/minhas-img-png/refs/heads/main/esferas-do-dragao/05-five-star.png" width="100px" height="100px" />
-  <img align="center" alt="6-estrela" src="https://raw.githubusercontent.com/dev-alm/minhas-img-png/refs/heads/main/esferas-do-dragao/06-six-star.png" width="115px" height="98px" />
-  <img align="center" alt="7-estrela" src="https://raw.githubusercontent.com/dev-alm/minhas-img-png/refs/heads/main/esferas-do-dragao/07-seven-star.png" width="103px" height="103px" />
+  <img align="center" alt="5-estrela" src="https://raw.githubusercontent.com/dev-alm/minhas-img-png/refs/heads/main/esferas-do-dragao/05-five-star.png" width="100px" height="94px" />
+  <img align="center" alt="6-estrela" src="https://raw.githubusercontent.com/dev-alm/minhas-img-png/refs/heads/main/esferas-do-dragao/06-six-star.png" width="112px" height="92px" />
+  <img align="center" alt="7-estrela" src="https://raw.githubusercontent.com/dev-alm/minhas-img-png/refs/heads/main/esferas-do-dragao/07-seven-star.png" width="103px" height="99px" />
 </div>
