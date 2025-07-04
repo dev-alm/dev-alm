@@ -19,9 +19,5 @@
 
 Apaixonado por jogos e desenvolvimento Web!
 <div align="left">
-  <img src="https://imgur.com/a/vawjD9j" width="100" height="100" />
-</div>
-
-<div align="left">
-  <img src="[https://github.com/user-attachments/assets/34ea0bc0-aa46-4093-9fe6-00c09f2c782a](https://i.imgur.com/AkjMsIh.png)" width="150px" height="150px" />
+  <img src="https://github.com/user-attachments/assets/34ea0bc0-aa46-4093-9fe6-00c09f2c782a" width="150px" height="150px" />
 </div>
