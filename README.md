@@ -1,4 +1,4 @@
-### Olá! Eu sou Gustavo Almeida👋
+### Hi! I'am Gustavo Almeida👋
 <div align="left">
   <img src="https://github.com/user-attachments/assets/34ea0bc0-aa46-4093-9fe6-00c09f2c782a" width="150px" height="150px" />
 </div>
@@ -8,7 +8,7 @@
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:alm.gustavo@outlook.com)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/odrkx)
 
-![Gustavo GitHub stats]([https://github-readme-stats.vercel.app/api?username=dev-alm&show_icons=true&theme=merko](https://github-readme-stats.vercel.app/api?username=dev-alm&show_icons=true&theme=dark))
+<img src="https://github-terminal-readme.nexflare.com.br/api/stats/dev-alm?theme=dracula"/>
 
 ## TECNOLOGIAS QUE EU USO NO MEU DIA
 <div style="display: inline_block"><br/>
